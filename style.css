@@ -5,7 +5,16 @@ body{
     background-size: cover;
   
 }
-div{
+.first{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
+    margin-top: 50px;
+}
+button{
+    background-color: pink;
+    color: black;
+    
+}
+.second{
+    width: 400px;
 }
